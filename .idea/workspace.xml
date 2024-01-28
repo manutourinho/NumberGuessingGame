@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c10a4faa-de51-4ec1-ae0d-05a5707472d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumberGuessingGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/Main.java" afterDir="false" />
+    <list default="true" id="c10a4faa-de51-4ec1-ae0d-05a5707472d0" name="Changes" comment="simple number guessing game implemented in Java. The objective of the game is to guess a randomly generated number within a specified range. It serves as a project to practice control flow, creation of multiple classes, and applying object-oriented programming (OOP) principles.">
+      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +47,42 @@
       <option name="presentableId" value="Default" />
       <updated>1705789709871</updated>
     </task>
+    <task id="LOCAL-00001" summary="simple number guessing game implemented in Java. The objective of the game is to guess a randomly generated number within a specified range. It serves as a project to practice control flow, creation of multiple classes, and applying object-oriented programming (OOP) principles.">
+      <created>1706404486628</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706404486628</updated>
+    </task>
+    <task id="LOCAL-00002" summary="simple number guessing game implemented in Java. The objective of the game is to guess a randomly generated number within a specified range. It serves as a project to practice control flow, creation of multiple classes, and applying object-oriented programming (OOP) principles.">
+      <created>1706404600796</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706404600796</updated>
+    </task>
+    <task id="LOCAL-00003" summary="simple number guessing game implemented in Java. The objective of the game is to guess a randomly generated number within a specified range. It serves as a project to practice control flow, creation of multiple classes, and applying object-oriented programming (OOP) principles.">
+      <created>1706404712064</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706404712064</updated>
+    </task>
+    <task id="LOCAL-00004" summary="simple number guessing game implemented in Java. The objective of the game is to guess a randomly generated number within a specified range. It serves as a project to practice control flow, creation of multiple classes, and applying object-oriented programming (OOP) principles.">
+      <created>1706404718741</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706404718741</updated>
+    </task>
+    <task id="LOCAL-00005" summary="simple number guessing game implemented in Java. The objective of the game is to guess a randomly generated number within a specified range. It serves as a project to practice control flow, creation of multiple classes, and applying object-oriented programming (OOP) principles.">
+      <created>1706404834200</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706404834200</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -66,6 +95,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="simple number guessing game implemented in Java. The objective of the game is to guess a randomly generated number within a specified range. It serves as a project to practice control flow, creation of multiple classes, and applying object-oriented programming (OOP) principles." />
+    <option name="LAST_COMMIT_MESSAGE" value="simple number guessing game implemented in Java. The objective of the game is to guess a randomly generated number within a specified range. It serves as a project to practice control flow, creation of multiple classes, and applying object-oriented programming (OOP) principles." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
